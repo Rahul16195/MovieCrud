@@ -1,5 +1,5 @@
 Spring Boot, MySQL, JPA, Hibernate Rest API Tutorial
-Build Restful CRUD API for a simple Note-Taking application using Spring Boot, Mysql, JPA and Hibernate.
+Build Restful CRUD API for a simple Movie Crud using Spring Boot, Mysql, JPA and Hibernate.
 
 Requirements
 
@@ -11,11 +11,12 @@ Mysql - 5.x.x
 
 Steps to Setup
 
-1. unzip the project and import as maven project in any of the tool like Eclipse or intelliJ
+1. Unzip the project and import as maven project in any of the tool like Eclipse or intelliJ etc.
 
 2. Create Mysql database
 
 create database movie_crud
+
 3. Change mysql username and password as per your installation
 
 open src/main/resources/application.properties
