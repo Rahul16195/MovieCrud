@@ -47,4 +47,5 @@ GET /api/movies/{movieId}
 PUT /api/movies/{movieId}
 
 DELETE /api/movies/{movieId}
+
 You can test them using postman or any other rest client.
