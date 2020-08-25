@@ -11,7 +11,9 @@ Mysql - 5.x.x
 
 Steps to Setup
 
-1. Unzip the project and import as maven project in any of the tool like Eclipse or intelliJ etc.
+1. Take the clone
+
+git clone https://github.com/Rahul16195/MovieCrud.git
 
 2. Create Mysql database
 
